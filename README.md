@@ -1,1 +1,1 @@
-hello world
+le travail paye
