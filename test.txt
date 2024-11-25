@@ -1,0 +1,12 @@
+git clone: pour cloner le code source
+ls -la: pour tout afficher
+cd: pour aller jusqu'au dossier
+touch: pour crée un fichiers
+git status: pour tout vérifier
+git add: pour les modifications
+git branch body: pour crée une branche 
+git branch: pour afficher les branches 
+git checkout body: pour changer de branche
+git commit : pour faire un sauvegarde
+git merge: pour fusionner les branches
+git push: pour envoyer au repot distant  
